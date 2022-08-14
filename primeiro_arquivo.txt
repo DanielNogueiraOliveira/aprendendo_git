@@ -1,0 +1,3 @@
+O git é uma ferramenta de versionamento de arquivo, onde posso arquivar versões do meu projeto em um repositorio, com isso posso navegar entre as versões do meu projeto, para ter o controle e mais segurança na hora de alterá-lo.  
+
+E o github é uma plataforma que posso armazenar meus repositorios git, também serve como plataforma de compartilhamento de repositorios, onde posso postar meus repositorios para outras pessoas acessá-lo.  
